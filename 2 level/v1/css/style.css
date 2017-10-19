@@ -1,0 +1,61 @@
+body {
+    position: absolute;
+    font-family: BabesRegular;
+    margin: auto;
+}
+header{
+    text-align: center;
+    background: white;
+    position: fixed;
+    padding: 0px;   
+}
+.logo{
+    float: left;
+    margin: 0px 0px 0px 150px;
+}
+
+nav{
+    margin-left: 319px;
+    float: right;
+}
+ul.nav{
+    margin-right: 150px ;
+    float: right;
+    overflow: hidden;
+    list-style: none;
+}
+.nav li { 
+    float: left;
+    
+}
+ul.nav a {
+    font-size: 22px;
+    display: block;
+    text-decoration: none;
+    color: rgb(158, 155, 155);
+}
+ul.nav a:hover{
+    background-color: rgb(251, 156, 6);
+    color: #f4f4f4;
+    opacity: 0.69;
+}
+ul li img{
+    height: 80px;
+    width: 80px;
+}
+footer{
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+    text-align: center;
+    height: 50px; 
+    background: rgb(251, 156, 6);
+    
+    position: absolute;
+    left: 0; 
+    bottom: 0; 
+    padding: 0px;
+    width: 100%;
+}
+
+    
+   
