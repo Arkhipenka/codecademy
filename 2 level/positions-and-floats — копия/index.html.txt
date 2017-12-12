@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Orange Rabbit</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<header>
+		<div class="logo">
+			<a href="logo.jpg"></a>
+			<h1>Orange<br>RABBIT</h1>
+		</div>
+		<nav>
+			<ul>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+		</nav>
+	</header>
+	<section>
+		
+	</section>
+	<article>
+		
+	</article>
+	<footer>
+		
+	</footer>
+
+</body>
+</html>
